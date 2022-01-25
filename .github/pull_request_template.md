@@ -41,4 +41,4 @@ Example: VEFramework-11. The ticket number should be part of the title not the P
 
 *   Maintainers/ contributors/Developers can participate in reviewing pull-requests
 
-* An approval required from at least two approvers before changes can be merged.
+* An approval required from at least one approvers before changes can be merged.
